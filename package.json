@@ -1,8 +1,10 @@
 {
-  "name": "flex-template",
+  "name": "voicesend",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "description": "Send WhatsApp messages with your voice in 5 languages",
+  "author": "VoiceSend",
   "scripts": {
     "dev": "npm-run-all --parallel dev:frontend dev:backend dev:bridge",
     "dev:frontend": "vite --open",
